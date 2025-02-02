@@ -1,2 +1,2 @@
 # Achievements
-All of My Achievements, Certificates and Internships
+All of My Achievements and Hackathon Certificates 
